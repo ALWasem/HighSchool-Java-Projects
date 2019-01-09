@@ -1,6 +1,6 @@
 # Java
 Various Java programs I worked on while learning the language.
-Development IDE was NetBeans.
+Development IDE was NetBeans.  See above commits for the code.
 
 PairOfDice: 
 Models a pair of dice and rolls two sets until an equal number is achieved.
